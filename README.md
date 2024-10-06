@@ -1,2 +1,3 @@
-This is made by jikwoo0527 to study git command
-\nIf you have good tips, please send me
+#This is made by jikwoo0527 to study git command
+##If you have good tips, please send me
+###Nice to meet you
