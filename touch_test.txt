@@ -1,0 +1,4 @@
+touch: Create new file
+If you want to write information in your file, you can use nano
+
+Example) nano [file name]
